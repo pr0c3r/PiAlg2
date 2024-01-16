@@ -40,6 +40,5 @@ obj/
 *.sln
 
 ###ignore file###
-NomesDEremedios.txt
-bin/Debug/net7.0/
-Alg2.csproj
+txt
+csproj
