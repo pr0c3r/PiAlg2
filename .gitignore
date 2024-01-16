@@ -34,10 +34,10 @@ build/
 .vs/
 obj/
 bin/Debug/net7.0/
-.json 
-.dll
-.exe
-.pdb
-.sln
-.txt
-.csproj
+*.json 
+*.dll
+*.exe
+*.pdb
+*.sln
+*.txt
+*.csproj
