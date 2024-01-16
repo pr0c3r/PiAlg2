@@ -33,15 +33,15 @@ build/
 .vscode/
 .vs/
 obj/
-<<<<<<< HEAD
+
 /bin/Debug/net7.0
 .json 
 .dll
 .exe
 .pdb
 .sln
-=======
 bin/Debug/net7.0/
+*txt
 *.json 
 *.dll
 *.exe
