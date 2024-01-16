@@ -33,11 +33,13 @@ build/
 .vscode/
 .vs/
 obj/
-bin/Debug/net7.0/
 *.json 
 *.dll
 *.exe
 *.pdb
 *.sln
-*.txt
-*.csproj
+
+###ignore file###
+NomesDEremedios.txt
+bin/Debug/net7.0/
+Alg2.csproj
