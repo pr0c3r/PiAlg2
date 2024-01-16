@@ -33,11 +33,11 @@ build/
 .vscode/
 .vs/
 obj/
-/bin/Debug/net7.0
+bin/Debug/net7.0/
 .json 
 .dll
 .exe
 .pdb
 .sln
 .txt
-.csproject
+.csproj
