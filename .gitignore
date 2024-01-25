@@ -40,5 +40,5 @@ obj/
 *.sln
 
 ###ignore file###
-txt
-csproj
+.txt
+.csproj
